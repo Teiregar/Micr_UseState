@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Micr_UseState/static/css/main.073c9b0a.css",
+    "main.js": "/Micr_UseState/static/js/main.3df0f8f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Micr_UseState/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Micr_UseState/index.html",
+    "main.073c9b0a.css.map": "/Micr_UseState/static/css/main.073c9b0a.css.map",
+    "main.3df0f8f0.js.map": "/Micr_UseState/static/js/main.3df0f8f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Micr_UseState/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3df0f8f0.js"
+  ]
+}
